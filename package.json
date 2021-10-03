@@ -1,0 +1,28 @@
+{
+  "name": "worldfiles",
+  "version": "1.0.0",
+  "description": "Read worldfiles and convert between map coordinates and image pixel position.",
+  "main": "worldfiles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreto/worldfiles-js.git"
+  },
+  "keywords": [
+    "worldfile",
+    "world-file",
+    "gfw",
+    "jgw",
+    "pgw",
+    "tfw",
+    "gis"
+  ],
+  "author": "Andreas Törnkvist (andreto.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andreto/worldfiles-js/issues"
+  },
+  "homepage": "https://github.com/Andreto/worldfiles-js#readme"
+}
