@@ -4,7 +4,7 @@ exports.worldFile = class {
     constructor(w) {
         // Define World Variables
         this.A = w.A;
-        this.B = w.A;
+        this.B = w.B;
         this.C = w.C;
         this.D = w.D;
         this.E = w.E;
